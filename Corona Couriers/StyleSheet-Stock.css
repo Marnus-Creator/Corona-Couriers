@@ -1,0 +1,26 @@
+﻿body {
+    background-image: url(adam-wilson-6UIonphZA5o-unsplash.JPG);
+    
+    background-size: cover;
+    text-align: left;
+}
+
+div {
+    text-align: center;
+    color: white;
+    font-size: 130px;
+    text-underline-position: auto;
+}
+
+/*
+p {
+    text-align: left;
+    color: black;
+    
+}
+
+
+GridView1 {
+    text-align: left;
+}
+*/

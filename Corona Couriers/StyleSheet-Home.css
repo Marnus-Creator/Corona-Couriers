@@ -1,0 +1,25 @@
+﻿body {
+    background-image: url(adam-wilson-6UIonphZA5o-unsplash.JPG);
+    
+}
+
+
+h2 {
+    
+    text-align:center;
+    color: white;
+    font-size: 150px;
+    text-underline-position: auto;
+    margin-top: 10px;
+}
+
+p {
+    text-align: center;
+    color:white;
+    font-size: 50px;
+    font-weight:bold;
+    font-stretch: wider;
+    height: 139px;
+    margin-top: 0px;
+    
+}
